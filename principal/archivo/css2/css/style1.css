@@ -1,0 +1,79 @@
+.login_titulo
+{
+		font-family:Tahoma;
+		font-size:16px;
+		line-height:normal;
+		color:#0B55C4;
+}
+.text_combo_select
+{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:normal;
+		color:#0B55C4;
+}
+.main1_text
+	{
+		font-family:Trebuchet MS;
+		font-size:11px;
+		line-height:normal;
+		color:#666600;
+	}
+.text_login
+{
+		font-family:Tahoma;
+		font-size:11px;
+		font-weight:bold;
+		line-height:normal;
+		color:#666666;
+		
+}
+.titulos
+{
+		font-family: Tahoma;
+			font-weight: 900;
+			font-size: 15px;
+			line-height: normal;
+			color: #ffffff;
+			margin-left: 10px;
+
+}
+.Estilodany {	
+font-size: 11px;
+font-family:Tahoma;
+color: #000000;
+}
+a:link {
+	color: #0B55C4;
+}
+a:visited {
+	color: #0B55C4;
+}
+a:hover {
+	color: #0B55C4;
+}
+a:active {
+	color: #0B55C4;
+}
+BODY, INPUT, OPTION, SELECT, TEXTAREA {font-size: 11px;font-family:Tahoma; color: #000000}
+.input_text
+{ 
+/*border:1px normal; 
+width:245px; 
+background-color:#EAEAEA; 
+margin:0 1px 0 1px; 
+*/
+font-family: Tahoma, Verdana, Arial; font-size: 11px; color: #0066CC; background-color: #F9F9F9; border: #F9F9F9; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.input_text1
+{ 
+font-family: Tahoma, Verdana, Arial; font-size: 11px; color: #0066CC; background-color: #F9F9F9; border: #7F9DB9; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; width:4;}
+.login
+{ 
+/*border:1px normal; 
+width:245px; 
+background-color:#EAEAEA; 
+margin:0 1px 0 1px; 
+*/
+font-family: Tahoma, Verdana, Arial; font-size: 11px; color: #ff0000;}
+#boton { background:url('../images/save_16.png') no-repeat; border:none; width:16px; height:16px; }
+#boton1 { background:url('../images/icon-16-checkin.png') no-repeat; border:none; width:16px; height:16px; }

@@ -1,0 +1,11 @@
+.tabla1
+{ 
+	position:relative;
+	width:1000px;
+	height:675px;
+	overflow:hidden;
+	left: 8px;
+	top: 1px;
+	border:1px solid #CDCDCD;
+	background-image: url(../images/desktop.jpg);
+}

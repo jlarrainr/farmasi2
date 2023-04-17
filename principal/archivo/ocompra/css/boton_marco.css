@@ -1,0 +1,11 @@
+.botones{
+	position:relative;
+	width:97%;
+	height:auto;
+	padding:3px;
+	overflow:hidden;
+	top: 2px;
+	left: 10px;
+	border:1px solid #ccc;
+	background:#FFFFFF;
+}

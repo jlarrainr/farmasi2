@@ -1,0 +1,52 @@
+*{
+	font-size: 12px;	
+	color: #424242;
+}
+
+select, input, button{
+	min-height: 28px;
+	padding: 4px 8px 4px 8px;
+	border: 1px solid #A4A4A4;
+	border-radius: 3px;
+}
+
+input[type=date]{
+	max-height: 28px;
+}
+
+button{
+	cursor: pointer;
+}
+
+.rodrigo-table-form tr td{
+	padding: 4px;
+}
+
+.rodrigo-table-data{
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid #BDBDBD;
+}
+
+.rodrigo-table-data tr:hover {
+        background-color: #ddd;
+    }
+    
+    
+.rodrigo-table-data thead tr td,
+.rodrigo-table-data thead tr th,
+.rodrigo-table-data tbody tr td,
+.rodrigo-table-data tbody tr th{
+	padding: 4px;
+}
+
+.rodrigo-table-data thead{
+	background-color: #D8D8D8;
+}
+
+.strikeout {
+            text-decoration: line-through;
+            color: red;
+            
+        }
+        

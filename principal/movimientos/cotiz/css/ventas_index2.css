@@ -1,0 +1,67 @@
+BODY, INPUT, OPTION, SELECT, TEXTAREA {font-size: 11px;font-family:Tahoma; color: #000000}
+.titulos_movimientos {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.blues
+{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:normal;
+		color:#0B55C4;
+}
+.text_combo_select
+{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:normal;
+		color:#0B55C4;
+}
+a:link {
+	color: #0066CC;
+	font-size:14px;
+}
+a:visited {
+	color: #0066CC;
+	font-size:14px;
+}
+a:hover {
+	color: #0066CC;
+	font-size:14px;
+}
+a:active {
+	color: #0066CC;
+	font-size:14px;
+}
+.cant
+{
+		font-family:Tahoma;
+		font-weight: bold;
+		font-size:16px;
+		line-height:normal;
+		color:#0B55C4;
+		
+}
+.cant1
+{
+		font-family:Tahoma;
+		font-weight: bold;
+		font-size:16px;
+		line-height:normal;
+		color:#990000;
+		
+}
+.busk
+{
+		font-family:Tahoma;
+		font-weight: bold;
+		font-size:12px;
+		line-height:normal;
+		color:#0B55C4;
+}
+.textos
+{
+		font-family:Trebuchet MS;
+		font-size:17px;
+		color: #006699;
+}

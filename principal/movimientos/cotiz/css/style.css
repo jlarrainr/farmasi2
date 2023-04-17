@@ -1,0 +1,16 @@
+.titulos
+{
+		font-family: Tahoma;
+			font-weight: 900;
+			font-size: 15px;
+			line-height: normal;
+			color: #ffffff;
+			margin-left: 10px;
+
+}
+.textos
+{
+		font-family:Trebuchet MS;
+		font-size:14px;
+		color: #006699;
+}

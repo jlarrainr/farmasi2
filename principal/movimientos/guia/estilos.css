@@ -1,0 +1,378 @@
+/* .div_ruc {
+    height: 100px;
+    border: 2px solid #2f2d2d;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.div_ruc p {
+    font-size: 13px;
+} */
+
+.table_2,
+p {
+    margin: 1px;
+    font-size: 87.5%;
+
+}
+
+.div_ruc {
+    height: 80px;
+    border: 2px solid #0a6fc2;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.div_ruc p {
+    font-size: 15px;
+}
+
+.boleta {
+    font-size: 16px;
+    font-weight: bold;
+    color: #474B56;
+    text-transform: uppercase;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.w-50 {
+    width: 49%;
+}
+
+.div_remitente {
+    height: 50px;
+    border: 0px solid #2f2d2d;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.div_destinatario {
+    height: 50px;
+    border: 0px solid #2f2d2d;
+
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.table_cabe {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+}
+
+.table_cabe,
+p {
+    margin: 1px;
+}
+
+
+.table_cabe th:first-child {
+    font-size: 9px;
+    width: 9%;
+}
+
+.table_cabe th:nth-child(2) {
+    font-size: 9px;
+    width: 20%;
+}
+
+.table_cabe th:nth-child(3) {
+    font-size: 9px;
+    width: 9%;
+}
+
+.table_cabe th:nth-child(4) {
+    font-size: 9px;
+    width: 20%;
+}
+
+.table_cabe td:first-child {
+    width: 20%;
+    font-size: 9px;
+}
+
+.table_cabe td:nth-child(2) {
+    width: 20%;
+    font-size: 9px;
+}
+
+.table_cabe td:nth-child(3) {
+    width: 20%;
+    font-size: 9px;
+}
+
+.table_cabe td:last-child(4) {
+    width: 20%;
+    font-size: 9px;
+}
+
+
+
+.thra1cabe {
+    font-weight: 900;
+    font-size: 9px;
+}
+
+.letracabe {
+    font-size: 12px;
+}
+
+.div_datosenvio {
+    height: 100px;
+    border: 0px solid #2f2d2d;
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.div_datosenvio1 {
+    height: 120px;
+    border: 0px solid #2f2d2d;
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.div_datosenvio2 {
+    height: 150px;
+    border: 2px solid #2f2d2d;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.div_datosenvio3 {
+    height: 90px;
+    border: 2px solid #2f2d2d;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.data_cliente {
+    width: 100%;
+    border: 1px solid #474B56;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.data_cliente2 {
+    width: 90%;
+    padding: 6px 20px;
+}
+
+/* .title {
+    font-size: 13px;
+    max-height: 160px;
+    /*    border: 1px solid #474B56;*/
+/*}  */
+
+.title {
+    font-size: 13px;
+    max-height: 160px;
+}
+
+.title p {
+    width: 100%;
+    margin: 0;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+.text_principal {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+
+.text_principaltext {
+    text-align: center;
+    font-size: 1;
+    font-weight: 600;
+}
+
+
+.title2 {
+    max-height: 160px;
+    /*   border: 1px solid #474B56;*/
+}
+
+
+
+.bodyy {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 160px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.table_2 {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+
+}
+
+.table_2,
+p {
+    margin: 1px;
+    font-size: 87.5%;
+
+}
+
+.table_2 th {
+    font-size: 12px;
+    background: black;
+    color: white;
+}
+.table_2 th:first-child {
+    background: black;
+    color: white;
+}
+
+.table_2 th:nth-child(2) {
+    background: black;
+    color: white;
+}
+
+.table_2 th:nth-child(3) {
+    background: black;
+    color: white;
+}
+
+.table_2 th:nth-child(4) {
+    background: black;
+    color: white;
+}
+
+.table_2 th:nth-child(5) {
+    background: black;
+    color: white;
+}
+
+.table_2 th:nth-child(6) {
+    background: black;
+    color: white;
+}
+
+.table_2 th:nth-child(7) {
+    background: black;
+    color: white;
+}
+
+.table_2 th:nth-child(8) {
+    background: black;
+    color: white;
+}
+
+
+.thra {
+    border: 1px solid #000;
+    padding: 5px;
+    border: 1.5px solid #474B56;
+    font-size: 14px;
+}
+
+.div_total {
+    border-top: 1px solid #474B56;
+    border-bottom: 1px solid #474B56;
+}
+
+
+.letra {
+    font-size: 16px;
+}
+
+.div_end {
+    text-align: center;
+    margin-bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+section {
+    width: 100%;
+    margin: 0;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+@media (min-width: 768px) {
+    .my-custom-container {
+        width: 600px;
+    }
+}
+
+@media (min-width: 992px) {
+    .my-custom-container {
+        width: 720px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .my-custom-container {
+        width: 900px;
+    }
+}
+
+
+
+
+/* ESTILOS PARA GUIA DE REMISION INTERFAZ - JESUS LOZANO */
+
+.div_remitenteG {
+    height: 90px;
+    border: 2px solid #2f2d2d;
+    border-radius: 10px;
+    text-align: left 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.div_destinatarioG {
+    height: 90px;
+    border: 2px solid #2f2d2d;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,239 @@
+.tabla1
+{ 
+    position:relative;
+    width:99%;
+    height:725px;
+    overflow:hidden;
+    left: 8px;
+    top: 1px;
+    border:1px solid #CDCDCD;
+    background-image: url(../../images/desktop.jpg);
+}
+.LETRA{
+    font-family:Tahoma;
+    font-size:11px;
+    line-height:normal;
+    color:'#5f5e5e';
+    font-weight: bold;
+}
+input {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 12px;
+    background-color: white;
+    background-position: 3px 3px; 
+    background-repeat: no-repeat;
+    padding: 2px 1px 2px 5px;
+
+}
+.LETRA2{
+    background:#d7d7d7
+}
+
+table.tabla2
+{ 
+    color: #404040;
+    background-color: #FFFFFF;
+    border: 1px #CDCDCD solid;
+    border-collapse: collapse;
+    border-spacing: 0px;}
+.title{
+    position:relative;
+    width:99%;
+    height:auto;
+    overflow:hidden;
+    left: 5px;
+    /* left: 100px; */
+    /* top: 20px; */
+    top: 2px;
+    border:1px solid #CDCDCD;
+    background:#50ADEA;
+}
+.mask1{								
+    position:relative;
+    width:99%;
+    height:670px;
+    overflow:hidden;
+    /* left: 100px; */
+    left: 5px;
+    /* top: 21px; */
+    border:1px solid #CDCDCD;
+    background:#F9F9F9;
+}
+.mask2{
+    position:relative;
+    width:99%;
+    height:auto;
+    overflow:hidden;
+    left: 5px;
+    top: 4px;
+    border:1px solid #ccc;
+
+}
+.mask3{
+    position:relative;
+    width:99%;
+    height:654px;
+    overflow:hidden;
+    left: 1px;
+    top: 4px;
+    background:#F9F9F9;
+}
+.mask11{
+    position:relative;
+    width:99%;
+    height:640px;
+    overflow:hidden;
+    /* left: 100px; */
+    left: 5px;
+    /* top: 21px; */
+    border:1px solid #CDCDCD;
+    background:#F9F9F9;
+}
+.mask22{
+    position:relative;
+    width:99%;
+    height:632px;
+    overflow:hidden;
+    left: 2px;
+    top: 4px;
+    border:1px solid #ccc;
+
+}
+.mask33{
+    position:relative;
+    width:99%;
+    height:626px;
+    overflow:hidden;
+    left: 2px;
+    top: 4px;
+    background:#F9F9F9;
+}
+.mask111{
+    position:relative;
+    width:99%;
+    height:444px;
+    overflow:hidden;
+    /* left: 100px; */
+    left: 5px;
+    /* top: 21px; */
+    border:1px solid #CDCDCD;
+    background:#F9F9F9;
+}
+.mask222{
+    position:relative;
+    width:99%;
+    height:438px;
+    overflow:hidden;
+    left: 2px;
+    top: 4px;
+    border:1px solid #ccc;
+
+}
+.mask333{
+    position:relative;
+    width:99%;
+    height:430px;
+    overflow:hidden;
+    left: 2px;
+    top: 4px;
+    background:#F9F9F9;
+}
+.botones{
+    position:relative;
+    width:97%;
+    height:auto;
+    padding:3px;
+    overflow:hidden;
+    top: 2px;
+    left: 10px;
+    border:1px solid #ccc;
+    background:#FFFFFF;
+}
+.botones2 {
+    width: 99%;
+    height: auto;
+    padding: 5px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background: #FFFFFF;
+}
+
+.table {
+    border: 1px solid #b4afad;
+    border-collapse: collapse;
+    height: 40px;
+}
+
+.LETRA {
+    font-family: Tahoma;
+    font-size: 11px;
+    line-height: normal;
+    color: '#5f5e5e';
+    font-weight: bold;
+}
+
+input {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 12px;
+    background-color: white;
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    padding: 2px 1px 2px 5px;
+
+}
+
+.titulos
+{
+    font-family: Tahoma;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: normal;
+    color: #ffffff;
+    margin-left: 10px;
+
+
+}
+.LETRA2 {
+    background: #d7d7d7
+}
+
+
+/* para las tablas */
+
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers th {
+    border: 1px solid #ddd;
+    padding: 1px;
+
+}
+
+#customers td {
+    border: 1px solid #ddd;
+    padding: 5px;
+    font-size: 12px;
+}
+
+#customers tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#customers tr:hover {
+    background-color: #ddd;
+}
+
+#customers th {
+    padding: 2px;
+    text-align: left;
+    background-color: #2e91d2;
+    color: white;
+    font-size: 15px;
+}

@@ -1,0 +1,31 @@
+BODY,
+INPUT,
+OPTION,
+SELECT,
+TEXTAREA {
+  font-size: 11px;
+  font-family: Tahoma;
+  color: #000000;
+}
+.input_text {
+  font-family: Tahoma, Verdana, Arial;
+  font-size: 11px;
+  color: #0066cc;
+  background-color: #f9f9f9;
+  border: #f9f9f9;
+  border-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+}
+.titulos_movimientos {
+  color: #ffffff;
+  font-weight: bold;
+}
+.blues {
+  font-family: Tahoma;
+  font-size: 11px;
+  line-height: normal;
+  color: #0b55c4;
+}

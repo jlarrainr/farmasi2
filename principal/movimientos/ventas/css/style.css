@@ -1,0 +1,39 @@
+.titulos
+{
+    font-family: Tahoma;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: normal;
+    color: #ffffff;
+    margin-left: 10px;
+
+}
+.textos
+{
+    font-family:Trebuchet MS;
+    font-size:14px;
+    color: #006699;
+}
+
+h1 {
+    color: #FF0000;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    margin-top: -40px;
+}
+
+.titulos2
+{
+    font-family: Tahoma;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: normal;
+    color: #e74b3b;
+    margin-left: 10px;
+    text-align: center;
+
+}

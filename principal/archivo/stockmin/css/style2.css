@@ -1,0 +1,46 @@
+.login_titulo
+{
+		font-family:Tahoma;
+		font-size:16px;
+		line-height:normal;
+		color:#0B55C4;
+}
+.text_combo_select
+{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:normal;
+		color:#0B55C4;
+}
+.input_text1
+{ 
+font-family: Tahoma, Verdana, Arial; font-size: 11px; color: #0066CC; background-color: #F9F9F9; border: #7F9DB9; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; width:4;}
+#boton { background:url('../../../../images/save_16.png') no-repeat; border:none; width:16px; height:16px; }
+#boton1 { background:url('../../../../images/icon-16-checkin.png') no-repeat; border:none; width:16px; height:16px; }
+.cant
+{
+		font-family:Tahoma;
+		font-weight: bold;
+		font-size:16px;
+		line-height:normal;
+		color:#0B55C4;
+		
+}
+.cant1
+{
+		font-family:Tahoma;
+		font-weight: bold;
+		font-size:16px;
+		line-height:normal;
+		color:#990000;
+		
+}
+.sub_totales
+{ 
+font-family: Tahoma, Verdana, Arial; font-size: 11px; font-weight: bold; color: #0066CC; background-color: #F9F9F9; border: #F9F9F9; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.pvta
+{ 
+font-family: Tahoma, Verdana, Arial; font-size: 12px; color: #FF0000; background-color: #F9F9F9; border: #FF0000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; width:4;}
+.monto_tot
+{ 
+font-family: Tahoma, Verdana, Arial; font-size: 16px; font-weight: bold; color: #FF0000; background-color: #FFFFFF; border: #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}

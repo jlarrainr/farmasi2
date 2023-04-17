@@ -1,0 +1,39 @@
+.tablarepor {
+             
+    border: 1px solid black;
+                        border-collapse: collapse;
+                        
+}
+.tablarepor tr{
+    
+    background: #ececec;
+}
+
+table.tabla2
+{ 
+    color: #404040;
+    background-color: #FFFFFF;
+    border: 1px #CDCDCD solid;
+    border-collapse: collapse;
+    border-spacing: 0px;}
+.LETRA{
+    font-family:Tahoma;
+    font-size:11px;
+    line-height:normal;
+    color:'#5f5e5e';
+    font-weight: bold;
+}
+input {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 12px;
+    background-color: white;
+    background-position: 3px 3px; 
+    background-repeat: no-repeat;
+    padding: 2px 1px 2px 5px;
+
+}
+.LETRA2{
+    background:#d7d7d7
+}

@@ -1,0 +1,154 @@
+.tabla1
+{ 
+	position:relative;
+	width:1320px;
+	height:675px;
+	overflow:hidden;
+	left: 8px;
+	top: 1px;
+	border:1px solid #CDCDCD;
+	background-image: url(../../images/desktop.jpg);
+}
+table.tabla2
+{ 
+color: #404040;
+background-color: #FFFFFF;
+border: 1px #CDCDCD solid;
+border-collapse: collapse;
+border-spacing: 0px;
+}
+.title{
+	position:relative;
+	width:920px;
+	height:auto;
+	overflow:hidden;
+	left: 100px;
+	top: 20px;
+	border:1px solid #CDCDCD;
+	background:#50ADEA;
+}
+.title1{
+	position:relative;
+	width:1314px;
+	height:auto;
+	overflow:hidden;
+	left: 4px;
+	top: 4px;
+	border:1px solid #CDCDCD;
+	background:#50ADEA;
+}
+.mask11{
+	position:relative;
+	width:1314px;
+	height:384px;
+	overflow:hidden;
+	left: 100px;
+	top: 21px;
+	border:1px solid #CDCDCD;
+	background:#F9F9F9;
+}
+.mask22{
+	position:relative;
+	width:1314px;
+	height:376px;
+	overflow:hidden;
+	left: 2px;
+	top: 4px;
+	border:1px solid #ccc;
+
+}
+.mask33{
+	position:relative;
+	width:1314px;
+	height:370px;
+	overflow:hidden;
+	left: 2px;
+	top: 4px;
+	background:#F9F9F9;
+}
+.mask1111{
+	position:relative;
+	width:1314px;
+	height:620px;
+	overflow:hidden;
+	left: 4px;
+	top: 4px;
+	border:1px solid #CDCDCD;
+	background:#F9F9F9;
+}
+.mask2222{
+	position:relative;
+        widows:1314px;;
+	height:612px;
+	overflow:hidden;
+	left: 2px;
+	top: 4px;
+	border:1px solid #ccc;
+
+}
+.mask3333{
+	position:relative;
+	width:1314px;
+	height:608px;
+	overflow:hidden;
+	left: 2px;
+	top: 4px;
+	background:#F9F9F9;
+}
+.botones{
+	position:relative;
+	width:97%;
+	height:auto;
+	padding:3px;
+	overflow:hidden;
+	top: 2px;
+	left: 10px;
+	border:1px solid #ccc;
+	background:#FFFFFF;
+}
+.celda2{
+	border-right: 1px solid #e5eff8;
+	border-bottom: 1px solid #e5eff8;
+	border-top: 1px solid #e5eff8;
+	border-left: 1px solid #e5eff8;
+}
+.Fields {
+	background-color: #FFFFCC;
+	border:solid #FFFFCC;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+        text-align: left;
+        
+}
+
+
+#efecto1{
+     position:relative;
+    background:#f3efed;
+    width:400px;
+    height:25px;
+    border:none;
+    outline:none;
+    
+    padding: 0 12px ;
+    border-radius:25px 0 0 25px;
+    /*border: 1px solid #6ec0f5;*/
+    /*font-size:*/
+}
+#efecto2{
+    position:relative;
+    left:-4px;
+    margin-top:8px;
+    border-radius:0 25px 25px 0;
+    width :90px;
+    height:25px;
+    border:none;
+    outline:none;
+   font-weight:bolder;
+    cursor:pointer;
+    background:#6ec0f5;
+    color:#fff;
+}
+#efecto2:hover{
+    background:#fcc154;
+}

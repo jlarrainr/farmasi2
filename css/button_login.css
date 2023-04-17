@@ -1,0 +1,9 @@
+      .buttones {
+          background-color:#FFFFFF; padding:2px;
+          text-align:center;
+          font-family:Georgia, "Times New Roman", Times, serif;
+          font-size:10px;
+          border-bottom:3px solid #CCC;
+          border-top:1px solid #DFDFDF;
+		  color: #003366;
+      }

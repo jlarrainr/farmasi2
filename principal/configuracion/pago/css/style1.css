@@ -1,0 +1,26 @@
+BODY, INPUT, OPTION, SELECT, TEXTAREA {font-size: 11px;font-family:Tahoma; color: #000000}
+.input_text
+{ 
+font-family: Tahoma, Verdana, Arial; font-size: 11px; color: #0066CC; background-color: #F9F9F9; border: #F9F9F9; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.titulos_movimientos {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.blues
+{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:normal;
+		color:#0B55C4;
+}
+
+.tablarepor {
+             
+    border: 1px solid black;
+                        border-collapse: collapse;
+                        
+}
+.tablarepor tr{
+    
+    background: #ececec;
+}

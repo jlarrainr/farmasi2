@@ -1,0 +1,108 @@
+#efecto2{
+    position:relative;
+    left:-4px;
+    margin-top:8px;
+    border-radius:0 25px 25px 0;
+    width :90px;
+    height:30px;
+    border:none;
+    outline:none;
+   font-weight:bolder;
+    cursor:pointer;
+    background:#6ec0f5;
+    color:#fff;
+}
+
+.Estilo1 {
+	color: #FF0000;
+	font-weight: bold;
+        font-size: 18px;
+}
+.Estilo2 {
+	color: #282727;
+	font-weight: bold;
+        font-size: 18px;
+}
+.GridviewScrollHeader TH, .GridviewScrollHeader TD 
+{ 
+    /*padding: 3px;*/
+    /*white-space: nowrap;*/ 
+    border-right: 1px solid #fff; 
+    border-bottom: 1px solid #fff; 
+   /*vertical-align: middle;*/
+    background-color:#629dce;
+    color:#FFF;
+    font-weight:900;
+    font-size:13px;
+     height: 38px;
+} 
+.GridviewScrollItem TD 
+{ 
+    /*padding: 3px;*/ 
+    white-space: nowrap; 
+    border-right: 1px solid #fff; 
+    border-bottom: 0.7px solid #fff;
+    font-size:12px;
+    height: 32px;
+
+} 
+.GridviewScrollPager  
+{ 
+    border-top: 1px solid #fff; 
+    background-color: #FFFFFF; 
+} 
+.GridviewScrollPager TD 
+{ 
+    padding-top: 3px; 
+    font-size: 14px; 
+    padding-left: 5px; 
+    padding-right: 5px; 
+} 
+.GridviewScrollPager A 
+{ 
+    color: #666666; 
+}.GridviewScrollPager SPAN
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.container {
+background-color: #03579D;
+  height: auto;
+  margin-top:0;
+  line-height: 60px;
+  width: 100%;
+  display: inline-block;
+  border-radius: 15px;
+}
+
+.container2 {
+background-color: #03579D;
+ height: auto;
+  margin-top:0;
+  width: 100%;
+  display: inline-block;
+  border-radius: 15px;
+}
+
+.GridviewScrollHeader2 TH, .GridviewScrollHeader TD 
+{ 
+    /*padding: 3px;*/
+    white-space: nowrap; 
+    border-right: 1px solid #AAAAAA; 
+    border-bottom: 1px solid #AAAAAA; 
+    vertical-align: middle;
+    background-color:#03579D;
+    color:#FFF;
+    font-size:14px;
+} 
+.GridviewScrollItem2 TD 
+ { 
+    /*padding: 3px;*/ 
+    white-space: nowrap; 
+    border-right: 1px solid #AAAAAA; 
+   border-bottom: 0.7px solid #AAAAAA;
+    font-size:14px;
+
+} 

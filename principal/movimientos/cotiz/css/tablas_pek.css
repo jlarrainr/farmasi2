@@ -1,0 +1,55 @@
+.tabla1
+{ 
+	position:relative;
+	width:auto;
+	height:auto;
+	overflow:hidden;
+        margin-right:8px;
+	left: 2px;
+	top: 1px;
+	border:1px solid #CDCDCD;
+	background-image: url(../../../images/desktop1.jpg);
+}
+.title1{
+	position:relative;
+	width:auto;
+	height:auto;
+	overflow:hidden;
+        margin-right:8px;
+	left: 4px;
+	top: 4px;
+	border:1px solid #CDCDCD;
+	background:#50ADEA;
+}
+.mask1111{
+	position:relative;
+	width:auto;
+        margin-right:8px;
+	height:auto;
+	overflow:hidden;
+	left: 4px;
+	top: 4px;
+	border:1px solid #CDCDCD;
+	background:#F9F9F9;
+}
+.mask2222{
+	position:relative;
+	width:auto;
+        margin-right:8px;
+	height:auto;
+	overflow:hidden;
+	left: 2px;
+	top: 4px;
+	border:1px solid #ccc;
+
+}
+.mask3333{
+	position:relative;
+        margin-right:8px;
+	width:auto;
+	height:auto;
+	overflow:hidden;
+	left: 2px;
+	top: 4px;
+	background:#F9F9F9;
+}

@@ -1,0 +1,39 @@
+.mask1{
+	position:relative;
+	width:502px;
+	height:404px;
+	overflow:hidden;
+	left: 110px;
+	top: 10px;
+	border:1px solid #CDCDCD;
+	background:#F9F9F9;
+}
+.mask2{
+	position:relative;
+	width:494px;
+	height:396px;
+	overflow:hidden;
+	left: 3px;
+	top: 3px;
+	border:1px solid #ccc;
+	background:#ffffff;
+
+}
+.mask3{
+	position:relative;
+	width:475px;
+	height:350px;
+	overflow:hidden;
+	left: 9px;
+	top: 20px;
+	border:1px solid #ccc;
+	background:#ffffff;
+
+}
+table.tabla2
+{ 
+color: #404040;
+background-color: #FFFFFF;
+border: 1px #CDCDCD solid;
+border-collapse: collapse;
+border-spacing: 0px;}

@@ -1,0 +1,3 @@
+AUMENTE DOS CAMPOS EN XCOMPA 
+fnom	int 3
+fref	int 3

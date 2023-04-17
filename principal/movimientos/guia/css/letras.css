@@ -1,0 +1,14 @@
+BODY, INPUT, OPTION, SELECT, TEXTAREA {font-size: 11px;font-family:Tahoma; color: #000000}
+.blues
+{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:normal;
+		color:#0B55C4;
+}
+.sub_totales
+{ 
+font-family: Tahoma, Verdana, Arial; font-size: 11px; font-weight: bold; color: #0066CC; background-color: #F9F9F9; border: #F9F9F9; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.monto_tot
+{ 
+font-family: Tahoma, Verdana, Arial; font-size: 16px; font-weight: bold; color: #FF0000; background-color: #FFFFFF; border: #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}

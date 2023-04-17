@@ -1,0 +1,30 @@
+	/* Big box with list of options */
+	#ajax_listOfOptions{
+	    font-family: Arial;	
+		position:absolute;	/* Never change this one */
+		width:500px;	/* Width of box */
+		height:120px;	/* Height of box */
+		overflow:auto;	/* Scrolling features */
+		border:1px solid #e3e3e3;	/* Dark green border */
+		background-color:#FFF;	/* White background color */
+		text-align:left;
+		font-size:14;
+		z-index:100;
+	}
+	#ajax_listOfOptions div{	/* General rule for both .optionDiv and .optionDivSelected */
+		margin:1px;		
+		padding:1px;
+		cursor:pointer;
+	}
+	#ajax_listOfOptions .optionDivSelected{ /* Selected item in the list */
+		background-color:#50ADEA;
+		color:#FFF;
+	}
+	#ajax_listOfOptions_iframe{
+		background-color:#F00;
+		position:absolute;
+		z-index:5;
+	}
+	form{
+		display:inline;
+	}

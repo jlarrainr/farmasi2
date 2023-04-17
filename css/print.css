@@ -1,0 +1,179 @@
+
+.main_text
+	{
+		font-family:Tahoma;
+		font-size:12px;
+		line-height:normal;
+		color:#666666;
+	}
+.main1_text
+	{
+		font-family:Trebuchet MS;
+		font-size:12px;
+		line-height:normal;
+		color:#666600;
+	}
+
+.main2_text
+	{
+		font-family:Tahoma;
+		font-size:9px;
+		line-height:9px;
+		color:#737373;
+	}
+
+.link_text
+	{
+		font-family:Tahoma;
+		font-size:9px;
+		line-height:9px;
+		color:#0B6B11;
+	}	
+	
+.link1_text
+	{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:11px;
+		color:#0B6B11;
+	}	
+		
+.copyright_text
+	{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:11px;
+		color:#EEEDBF;
+	}
+
+.form
+	{
+		width:90px; height:19px; border-color:#C8B503; background-color:#FFFFCC; border-width:1px; font-size:11px; color:#666600; 
+	}
+.form1
+	{
+		width:318px; height:19px; border-color:#C8B503; border-width:1px; background-color:#FFFFFF; font-size:11px; border-style:solid; border-top-color:#83770A;border-left-color:#83770A
+	}
+.form_div
+	{
+		height:20px; margin-top:10px;		
+	}
+	a.copyright_text:link {text-decoration:none;}	
+	a.copyright_text:hover {text-decoration:underline;}
+	a.copyright_text:active {text-decoration:none;}
+	a.copyright_text:visited {text-decoration:none;}
+	
+.cd_text
+	{
+		font-family:Monotype Corsiva;
+		font-size:15x;
+		line-height:15px;
+		color:#0B6B11;
+	}	
+	
+.cd1_text
+	{
+		font-family:Tahoma;
+		font-size:12px;
+		line-height:normal;
+		color:#737373;
+	}
+		
+.Estilo6 {	font-size: 14px;
+    font-family:Trebuchet MS;
+	color: #99CC00;
+	font-weight: bold;
+}
+
+.Estilocd {	
+font-size: 11px;
+font-family:Tahoma;
+color: #666666;
+}
+.Estilodany {	
+font-size: 11px;
+font-family:Tahoma;
+color: #000000;
+}
+
+/*/////////FIN IMAGEN SOBRE ////////////*/
+
+
+A {
+	text-decoration:none;
+	color: #FA3D0E;
+	font-weight: bold;
+	font-family:sans-serif,tahoma;
+}
+A:active {
+	text-decoration:underline;
+}
+
+.titulo_noticia {
+	font-family: Arial,Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+/*	font-weight: bold;*/
+	color: #35468C;
+}
+.titulo_noticia:active {
+	font-weight: bold;
+}
+.titulo_texto {
+	font-family: Arial,Verdana, Helvetica, sans-serif;
+		font-size: 11px;
+	font-weight: bold;
+	color: #35468C;
+}
+.titulo{
+	font-family: Arial,Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.menubottom {
+	font-family: Arial,Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;	
+}
+BODY, INPUT, OPTION, SELECT, TEXTAREA {font-size: 11px;font-family:Arial,tahoma,sans-serif;color: #ffffff}
+SELECT,OPTION,TEXTAREA		{PADDING-LEFT:2px}
+TABLE, TD, TR {
+	font-size: 11px;
+	font-family:Arial,tahoma,sans-serif;
+	color: #666666
+}
+
+A:hover	{
+	text-decoration:underline
+}
+.boton	{
+	height: 20px; border: 1px solid #990000;
+	font-size: 11px;color: #FFFFFF;font-family:Arial,tahoma,sans-serif;
+/*	background-image: url('http://localhost/imagenes/bottom.jpg');*/
+}
+
+.menuPrincipal {
+	FONT-SIZE: 9px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.menu {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.menu:hover {
+	FONT-SIZE: 11px; COLOR: #35468C; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #a0a0a0;
+	SCROLLBAR-SHADOW-COLOR: #a0a0a0; SCROLLBAR-3DLIGHT-COLOR: #ffffff;
+	SCROLLBAR-ARROW-COLOR: #a0a0a0; SCROLLBAR-TRACK-COLOR: #ffffff; 
+	SCROLLBAR-DARKSHADOW-COLOR: #ffffff;
+}
+.Estilo1 {color: #FFFFFF}
+.Estilo8 {
+	color: #36434C;
+	font-size: 14px;
+}
+.Estilo10 {
+	color: #788F97;
+	font-weight: bold;
+	font-size: 11px;
+}

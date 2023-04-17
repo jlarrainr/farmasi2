@@ -1,0 +1,71 @@
+      .demoTable {
+          border-spacing:1px;
+          font-family:Verdana, Arial, Helvetica, sans-serif;
+          font-size:10px;
+          background-color:#E7E7E7;
+          color: #666666;
+          width:570;
+          margin:auto;
+      }
+      .demoTable td, .demoTable tr, .demoTable th{
+          border-collapse: separate;
+          border-collapse: collapse;
+          border-spacing: 0;
+      }
+      .demoTable caption {
+          font-weight: bold;
+          background: #50ADEA;
+          border-bottom:2px solid #1975d7;
+          color: #FFF;
+          text-transform:uppercase;
+          padding:8px;
+          margin:auto;
+      }
+      .demoTable td, .demoTable th {
+          padding: 1px;
+      }
+      .demoTable thead th {
+          text-align: center;
+          background: #F5F5F5;
+          color: #666;
+          border: 1px solid #FFF;
+          text-transform:uppercase;
+      }
+      .demoTable tbody th {
+          font-weight: bold;
+      }
+      .demoTable tbody tr  {
+          background-color:#FFF;
+          text-align:left;
+		  
+          }
+      .demoTable tbody tr.odd     {
+          background: #f9f9f9;
+          border-top:1px solid #FFF;
+      }
+      .demoTable tbody tr td {
+          height:20px;
+          background: #FFF;
+          border: 1px solid #FFF;
+          }
+      .demoTable tbody tr.odd td{
+          background: #f9f9f9;
+          border-top:1px solid #FFF;
+          }
+      .demoTable td a:link, .demoTable td a:visited {
+          color: #1975D7;
+          text-decoration: none;
+      }
+      .demoTable td a:hover {
+          color: #50ADEA;
+          border-bottom:2px solid #8FD5FF;
+          text-decoration: none ;
+      }
+      .demoTable tfoot th, .demoTable tfoot td {
+          background-color:#E7E7E7; padding:2px;
+          text-align:center;
+          font-family:Georgia, "Times New Roman", Times, serif;
+          font-size:12px;
+          border-bottom:3px solid #CCC;
+          border-top:1px solid #DFDFDF;
+      }

@@ -1,0 +1,9 @@
+#table { font-family: Arial, sans-serif; font-size: 11px; width: 100%; CURSOR: default; -moz-user-select: none; -khtml-user-select: none; user-select: none; }
+#table th#hoverTH { background: #555; }
+#table th { TEXT-ALIGN: left; PADDING: 4px 0 4px 9px; BACKGROUND: #50ADEA; BORDER-BOTTOM: 1px solid #444; BORDER-TOP: 1px solid #444; BORDER-LEFT: 1px solid #555; COLOR: #FFF; CURSOR: pointer; }
+#table th span { COLOR: #AAA; }
+#table tr#this td { background-color: #FFFF99; color: #000; font-weight: bold; border-left: 1px solid #FFFF99; border-bottom: 1px solid #FFFF99; border-top: 1px solid #FFFF99; BORDER-RIGHT: 1px solid #FFFF99; }
+#table tr#hover td { background-color: #777; color: #FFF; border-left: 1px solid #888; border-bottom: 1px solid #888; border-top: 1px solid #888; BORDER-RIGHT: 1px solid #777; }
+#table tr td { padding: 3px 8px; border-left: 1px solid #D9D9D9; border-top: 1px solid #FFF; border-bottom: 1px solid #FFF; }
+#table tr.even td { BACKGROUND: #edf3fe; BORDER-BOTTOM: 1px solid #E8F0FF; BORDER-TOP: 1px solid #E8F0FF; BORDER-RIGHT: 1px solid #FFF; }
+#table tr.odd td { BACKGROUND: #FFF; BORDER-BOTTOM: 1px solid #FFF; BORDER-TOP: 1px solid #FFF; BORDER-RIGHT: 1px solid #FFF; }

@@ -1,0 +1,14 @@
+stm_bm(["menu0b0f",700,"","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","",0,0,1,2,"default","hand",""],this);
+stm_bp("p0",[0,4,0,0,0,0,0,0,100,"",-2,"",-2,50,0,0,"#999999","#FFFFF7","",3,1,1,"#CCCCCC"]);
+stm_ai("p0i0",[0,"Datos Generales","","",-1,-1,0,"datos_gen.php","_top","","","","",0,0,0,"","",0,0,0,1,1,"#F0F0F0",0,"E7EDDF",0,"","",3,3,1,1,"#F0F0F0","#6D9D2E","#666666","#666666","bold 8pt 'Arial','Verdana'","bold 8pt 'Arial','Verdana'",0,0],125,19);
+stm_ai("p0i1",[6,1,"#CCCCCC","",-1,-1,0]);
+stm_aix("p0i2","p0i0",[0,"Valores Predeterminados","","",-1,-1,0,"val_predeterm.php"],158,19);
+stm_aix("p0i3","p0i1",[]);
+stm_aix("p0i4","p0i0",[0,"Directorios","","",-1,-1,0,"directorio.php"],112,19);
+stm_aix("p0i5","p0i1",[]);
+stm_aix("p0i6","p0i0",[0,"Contrase�as Especiales","","",-1,-1,0,"password.php"],150,19);
+stm_aix("p0i7","p0i1",[]);
+stm_aix("p0i8","p0i0",[0,"Colores","","",-1,-1,0,"color.php"],121,19);
+stm_aix("p0i9","p0i1",[]);
+stm_ep();
+stm_em();

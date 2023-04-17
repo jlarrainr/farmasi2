@@ -1,0 +1,160 @@
+52 al 59
+EXIM - SERVER DE CORREOS
+http://www.x-caleta.com/software/131997-vmware-workstation-v711282343-varios-sistemas-en.html
+http://www.x-caleta.com/software/134884-nero-multimedia-suite-10-10013100full-patentes-de.html
+
+RESTRINGIR EXTENSIONES DE ARCHIVOS:
+
+EFESTOS- HERRAMIENTAS ADMINISTRATIVAS
+Administrador de recursos del servidor de archivos:
+	Administrador de filtrado de archivos 
+		Creo excepciones o bloqueo accesos.
+		(Siempre con un *.js por ejemplo) y luego la ruta dobde aplicar.
+
+
+SISBEN
+http://172.18.0.5:8080/manager/html
+
+CREACION DE CORREOS Y ASIGNACION DE TRAMITE DOCUMENTARIO CON ARMANDO
+
+AUDIOCREAM.COM
+
+555 YA SE PUBLICO
+454 YA SE PUBLICO
+
+
+#043203 juan carlos
+coronel.nicolas
+
+
+645.8
+----
+250
+170
+----
+420
+
+
+DISEÑOS
+http://www.downturk.info/165602-beauty-vector-246.html
+http://www.downturk.info/165597-flower-wallpappers.html
+
+
+
+
+http://www.youtube.com/watch?v=LrPuaCf1o8g
+http://www.downturk.info/166436-happy-birthday-card.html  cumpleaños
+
+229 ganador
+230
+
+#706734
+
+http://www.downturk.info/158991-stock-vector-ripped-blank.html
+http://www.downturk.info/160554-office-item-samples.html
+http://www.downturk.info/159887-stock-vector-vintage-design.html
+http://www.downturk.info/159607-asadal-129134138.html
+http://www.downturk.info/161602-templates-with-bows.html
+http://www.downturk.info/162240-love-backgrounds.html              71
+
+174 x 120
+198 x 177
+
+yo are the one
+
+
+http://www.reypastor.org/departamentos/dinf/enalam/fireworks/14mascaras.htm
+http://visualinformatica.blogspot.com/2009/09/programador-certificado-java-2-curso.html
+
+Muy buen día, para indicar que el día viernes se publicaron los proceso CAS de acuerdo al cronograma establecido, sin embargo informar que los sgtes procesos no fueron enviados vía correo para su publicación:
+Procesos pendientes a publicar:
+Resultados de evlaución psicológica:
+232, 233, 241, 244, 247, 252, 259, 269, 270, 271, 285, 289, 290, 291, 292, 293, 294, 296, 297, 298, 299, 300, 301, 302, 304, 305, 321, 333, 339, 343, 345, 346, 347, 348, 349, 351, 352, 353, 354, 355.
+
+=SI((HOY()>=D2), CONTARA(C3:C167), "")
+
+
+
+
+
+
+
+
+rebagliatti av arenales 1402 jesus maria - mesa de partes
+
+http://www.jcoverflip.com/demo
+FREDY CRUZ - HOSPITAL DE POLICIA
+SANTIAGO MERCADO
+
+305-16926854-0-18
+
+ Página Nº &[Página]+108
+
+
+
+ec8b0eb13456d88f1bcb2c2f57cdcf4e
+
+d14220ee66aeec73c49038385428ec4c
+
+CREATE TABLE `tgpersona` (
+  `IdPersona` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `PerApePaterno` varchar(30) DEFAULT NULL,
+  `PerApeMaterno` varchar(30) DEFAULT NULL,
+  `PerNombres` varchar(30) DEFAULT NULL,
+  `PerDocumento` smallint(6) NOT NULL,
+  `PerNroDocumento` varchar(12) DEFAULT NULL,
+  `PerFecNacimiento` date DEFAULT NULL,
+  `PerPais` smallint(6) DEFAULT NULL,
+  `PerUbigeo` char(6) DEFAULT NULL,
+  `PerPoblado` char(4) DEFAULT NULL,
+  `PerDireccion` varchar(120) DEFAULT NULL,
+  `PerReferencia` varchar(120) DEFAULT NULL,
+  `PerSexo` tinyint(1) NOT NULL,
+  `PerTelefono` varchar(10) DEFAULT NULL,
+  `PerCorreo` varchar(60) DEFAULT NULL,
+  `PerEliminado` tinyint(1) NOT NULL DEFAULT '0' COMMENT 'Auditoría',
+  `PerUsuRegistra` int(11) unsigned NOT NULL COMMENT 'Auditoría',
+  `PerFecRegistra` datetime NOT NULL COMMENT 'Auditoría',
+  `PerUsuActualiza` int(11) unsigned DEFAULT NULL COMMENT 'Auditoría',
+  `PerFecActualiza` datetime DEFAULT NULL COMMENT 'Auditoría',
+  PRIMARY KEY (`IdPersona`),
+  UNIQUE KEY `IdPersona` (`IdPersona`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+=+SI(LARGO(N2)<5,N2,"")
+=+SI(LARGO(N2)<5,"0"&n2,n2)
+WEB 3.0
+
+LISTADO DE CURSOS – CAPACITACIÓN
+
+
+Certificación Java (Universidad Nacional de Ingeniería)
+		Enlace: http://www.sistemasuni.edu.pe/website/Java/default.html
+		Inversión: S/. 3850.00		
+
+Especialista en Diseño Gráfico (Universidad Nacional de Ingeniería)
+		Enlace: http://www.ceps.uni.edu.pe/cepsuni/horarios.html#dgrafico
+		Inversión: S/. 1200.00
+					
+Diseño gráfico publicitario digital (Universidad Nacional Mayor de San Marcos)
+		Enlace: http://industrial.unmsm.edu.pe/ceups/informatica/e02.htm
+		Inversión: S/. 420.00
+		Duración: 60  hrs.
+
+Diseño gráfico con Illustrator (Universidad Católica del Perú)
+		Enlace: http://infopuc.pucp.edu.pe/component/option,com_courses/task,view/Itemid,75/catid,16/id,22/
+		Inversión: S/. 420.00
+
+Diseño gráfico con Flash (Universidad Católica del Perú)
+		Enlace: http://infopuc.pucp.edu.pe/component/option,com_courses/task,view/Itemid,75/catid,16/id,125/
+		Inversión: S/. 420.00
+
+
+Web Designer Professional (Universidad Nacional de Ingeniería)
+		Enlace: http://www.sistemasuni.edu.pe/dmodulos/WebDesigner.html
+		Inversión: S/. 200.00		
+		Duración: 96 hrs.
+
+# Sicarios de la mafia azucarera que lideran Oviedo y Becerril, atacan a dirigentes y trabajadores para acallarlos.
+# Protestas se desbordan contra administración mafiosa de Pomalca y Tumán.
+# Medios comprados por la mafia silencian demandas legítimas de población laboral azucarea.
