@@ -16,7 +16,7 @@ $conexion = mysqli_connect($dbhost, $dbUsuario, $dbpassword, $db);
 $dbhost2     = '3.237.52.136';	//host del Mysql 
 $dbUsuario2  = 'db_cli01';	//En este caso el servidor no tiene valor para usuario para acceder a la base
 $dbpassword2 = 'SharedXYZ2023';	//Aqui tambien no hay un valor especifico
-$db2         ='farmasi2_falta';		// Nombre de la Base Datos
+$db2         ='farmasi2_bfamifarma';		// Nombre de la Base Datos
 $conexion2 = mysqli_connect($dbhost2, $dbUsuario2, $dbpassword2, $db2) or die ("No se ha podido conectar al servidor de Base de datos");
 /////////////////////////////////////////////////SEGUNDA CONEXION///////////////////////////////////////////////////////////////////////////////////////
 
