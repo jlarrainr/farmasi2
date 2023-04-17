@@ -1,10 +1,10 @@
 <?php
 date_default_timezone_set("America/Lima");
 //ini_set("session.cookie_lifetime","86400");
-$dbhost     = 'farmasis-rds.ccmsgoobkgqo.us-east-1.rds.amazonaws.com';	//host del Mysql 
-$dbUsuario  = 'admin';	//En este caso el servidor no tiene valor para usuario para acceder a la base
-$dbpassword = 'f4rmxziS*20x22';	//Aqui tambien no hay un valor especifico
-$db         ='farmasi2_demo';		// Nombre de la Base Datos
+$dbhost     = '3.237.52.136';	//host del Mysql 
+$dbUsuario  = 'db_cli01';	//En este caso el servidor no tiene valor para usuario para acceder a la base
+$dbpassword = 'SharedXYZ2023';	//Aqui tambien no hay un valor especifico
+$db         ='farmasi2_bfamifarma';		// Nombre de la Base Datos
 
 
 
@@ -13,10 +13,10 @@ $conexion = mysqli_connect($dbhost, $dbUsuario, $dbpassword, $db);
 
 
 /////////////////////////////////////////////////SEGUNDA CONEXION///////////////////////////////////////////////////////////////////////////////////////
-$dbhost2     = 'farmasis-rds.ccmsgoobkgqo.us-east-1.rds.amazonaws.com';	//host del Mysql 
-$dbUsuario2  = 'admin';	//En este caso el servidor no tiene valor para usuario para acceder a la base
-$dbpassword2 = 'f4rmxziS*20x22';	//Aqui tambien no hay un valor especifico
-$db2         ='farmasi2_baseuniversal';		// Nombre de la Base Datos
+$dbhost2     = '3.237.52.136';	//host del Mysql 
+$dbUsuario2  = 'db_cli01';	//En este caso el servidor no tiene valor para usuario para acceder a la base
+$dbpassword2 = 'SharedXYZ2023';	//Aqui tambien no hay un valor especifico
+$db2         ='farmasi2_falta';		// Nombre de la Base Datos
 $conexion2 = mysqli_connect($dbhost2, $dbUsuario2, $dbpassword2, $db2) or die ("No se ha podido conectar al servidor de Base de datos");
 /////////////////////////////////////////////////SEGUNDA CONEXION///////////////////////////////////////////////////////////////////////////////////////
 
